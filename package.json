@@ -1,0 +1,21 @@
+
+{
+  "name": "keshan-arrow-escape",
+  "version": "1.0.0",
+  "description": "KESHAN ARROW ESCAPE Advanced Puzzle Game",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo Android APK build is handled by GitHub Actions"
+  },
+  "keywords": [
+    "keshan",
+    "arrow-escape",
+    "puzzle-game",
+    "android"
+  ],
+  "author": "KESHAN GAMES",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cordova": "^12.0.0"
+  }
+}
